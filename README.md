@@ -5,3 +5,9 @@ contrast: the diffrence between the lightest point of image and the darkest poin
 lift: shadows
 Gamma: skin
 gain: highlight
+
+
+
+------ highlights
+------ mid tones
+------ shadows
